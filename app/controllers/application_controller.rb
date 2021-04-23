@@ -1,2 +1,4 @@
-class ApplicationController < ActionController::Base
-end
+class ClientsController < ApplicationController
+    def new
+    end
+  end
